@@ -1,0 +1,2 @@
+C:\Users\linky\OneDrive\Desktop\UnityProject\3D\3D-Unity-Final\3D-SurvivalRoom\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\linky\OneDrive\Desktop\UnityProject\3D\3D-Unity-Final\3D-SurvivalRoom\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
